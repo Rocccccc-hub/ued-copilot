@@ -5,6 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2026-02-06
+
+### 🎉 改进 | Improved
+
+**大幅优化互动体验**：
+- ✅ 强化互动对话模式，严格禁止一次性输出所有问题
+- ✅ 添加"核心原则"章节，明确互动规则
+- ✅ 每次只展示一个问题，展示后立即停止并等待用户反馈
+- ✅ 优化问题展示格式，减少单次输出长度（控制在约 30 行内）
+- ✅ 增强选项式交互，让用户更清晰地控制审查节奏
+- ✅ 更新示例对话，展示正确的逐步互动流程
+- ✅ 改进总览展示：只显示问题标题列表，不展开详细内容
+
+**解决的问题**：
+- 修复用户反馈的"罗列一大串文字"的阅读体验问题
+- 让 AI 真正像"设计顾问"而非"报告生成器"
+- 显著提升用户控制感和交互流畅度
+
 ## [1.0.0] - 2026-02-06
 
 ### Added
