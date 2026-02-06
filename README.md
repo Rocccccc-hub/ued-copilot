@@ -359,7 +359,7 @@ ued-copilot/
 
 <div align="center">
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Rocccccc
 
 使用 [Claude Code](https://claude.ai/code) 开发
 
