@@ -30,4 +30,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 阶段性审查总结
 - 设计决策辅助建议
 
-[1.0.0]: https://github.com/your-username/ued-copilot/releases/tag/v1.0.0
+[1.0.0]: https://github.com/Rocccccc-hub/ued-copilot/releases/tag/v1.0.0
