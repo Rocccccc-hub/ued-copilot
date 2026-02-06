@@ -48,7 +48,7 @@ UED Copilot 是一个专业的 UI/UX 设计审查技能，可以自动识别页�
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/ued-copilot.git
+git clone https://github.com/Rocccccc-hub/ued-copilot.git
 cd ued-copilot
 ```
 
@@ -352,8 +352,8 @@ ued-copilot/
 ## 📧 联系方式
 
 如有问题或建议，欢迎：
-- 提交 [Issue](https://github.com/your-username/ued-copilot/issues)
-- 发起 [Discussion](https://github.com/your-username/ued-copilot/discussions)
+- 提交 [Issue](https://github.com/Rocccccc-hub/ued-copilot/issues)
+- 发起 [Discussion](https://github.com/Rocccccc-hub/ued-copilot/discussions)
 
 ---
 
